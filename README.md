@@ -1,64 +1,76 @@
+<!-- ============================= -->
+<!--         MD RADUAN             -->
+<!-- ============================= -->
 
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24329
-Fork on GitHub
-8370
+<p align="center">
 
-back to edit
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,100:7c3aed&text=MD%20RADUAN&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MongoDB&descAlignY=60"/>
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Raduan</h1>
-<h3 align="center">A passionate frontend developer from Bangladash</h3>
-
-- 🔭 I’m currently working on **TradeHubhttps://trade-hub-client-pi.vercel.app/**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-tau-sepia-27.vercel.app/](https://my-portfolio-tau-sepia-27.vercel.app/)
-
-- 📫 How to reach me **raduanhossen007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/raduan007ei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raduan007ei" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raduanhossen857/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raduanhossen857/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/raduan.hossen.24521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/raduan.hossen.24521" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">
+Hi 👋 I'm MD Raduan
+</h1>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+<h3 align="center">
+Frontend Developer from Bangladesh 🇧🇩
+</h3>
+
+<p align="center">
+
+Building beautiful, scalable and user-friendly web applications using modern technologies.
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:raduanhossen007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;Next.js+Developer;Full+Stack+Learner;Building+Modern+Web+Applications"/>
+
+</p>
+
+---
+
+# 💫 About Me
+
+- 🚀 Frontend Developer passionate about building modern web applications.
+
+- 🌱 Currently learning **Better Auth**, **Google OAuth**, **Next.js App Router**, and **TypeScript**.
+
+- 💻 Love working with React, Next.js, Tailwind CSS, MongoDB and Node.js.
+
+- 🎯 Goal: Become a professional Software Engineer.
+
+- 📚 Always learning something new every day.
+
+---
+
+## ⚡ Quick Facts
+
+- 🌍 Location: Dhaka, Bangladesh
+- 💼 Open to Frontend & Junior Full Stack opportunities
+- 💬 Ask me about React, Next.js, Tailwind CSS & MongoDB
+- 📧 Email: raduanhossen007@gmail.com
