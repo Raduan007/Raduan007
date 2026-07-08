@@ -54,38 +54,36 @@ Building beautiful, scalable and user-friendly web applications using modern tec
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-- 🚀 Frontend Developer passionate about building modern web applications.
+I'm **Raduan Hossen**, a passionate **Frontend Web Developer** from **Bangladesh** who enjoys building modern, responsive, and user-focused web applications.
 
-- 🌱 Currently learning **Better Auth**, **Google OAuth**, **Next.js App Router**, and **TypeScript**.
+My primary focus is developing clean, accessible, and scalable interfaces using **React**, **Next.js**, **JavaScript**, and **Tailwind CSS**. I enjoy turning ideas into real-world products while writing maintainable code and following modern development best practices.
 
-- 💻 Love working with React, Next.js, Tailwind CSS, MongoDB and Node.js.
+I continuously improve my skills by building practical projects, solving coding challenges, and exploring new technologies. Recently, I've been working with **MongoDB**, **Node.js**, **Express.js**, and authentication systems to expand my full-stack development knowledge.
 
-- 🎯 Goal: Become a professional Software Engineer.
-
-- 📚 Always learning something new every day.
+I'm currently looking for opportunities where I can contribute, collaborate with experienced developers, and continue growing as a software engineer.
 
 ---
+### 🚀 What I'm Doing
 
-## ⚡ Quick Facts
-
-- 🌍 Location: Dhaka, Bangladesh
-- 💼 Open to Frontend & Junior Full Stack opportunities
-- 💬 Ask me about React, Next.js, Tailwind CSS & MongoDB
-- 📧 Email: raduanhossen007@gmail.com
-
-- ---
-
-# 🛠️ Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma,vercel&perline=7" />
-
-</p>
+- 💻 Building full-stack projects with React & Next.js
+- 🌱 Learning TypeScript and advanced React concepts
+- 🔐 Exploring authentication and authorization systems
+- 📱 Creating responsive and accessible user interfaces
+- ⚡ Improving application performance and code quality
 
 ---
+### 💡 My Interests
+
+- Frontend Development
+- Modern Web Technologies
+- UI/UX Design
+- Full-Stack Development
+- Open Source
+- Problem Solving
+
+> **"I believe the best way to learn is by building real projects, continuously improving, and writing code that creates value."**
 
 # 💻 Tech Stack
 
