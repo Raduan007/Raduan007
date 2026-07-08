@@ -53,37 +53,81 @@ Building beautiful, scalable and user-friendly web applications using modern tec
 </p>
 
 ---
+<div align="center">
+
+# 👋 Hi, I'm Raduan Hossen
+
+### Frontend Web Developer • React • Next.js • JavaScript
+
+Building modern, responsive, and user-focused web applications with clean code and modern technologies.
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="60%">
 
 ## 👨‍💻 About Me
 
-I'm **Raduan Hossen**, a passionate **Frontend Web Developer** from **Bangladesh** who enjoys building modern, responsive, and user-focused web applications.
+I'm a passionate **Frontend Web Developer** from **Bangladesh** with a strong interest in creating modern, responsive, and user-centric web applications.
 
-My primary focus is developing clean, accessible, and scalable interfaces using **React**, **Next.js**, **JavaScript**, and **Tailwind CSS**. I enjoy turning ideas into real-world products while writing maintainable code and following modern development best practices.
+I specialize in building intuitive user interfaces using **React**, **Next.js**, **JavaScript**, and **Tailwind CSS** while following clean code practices and responsive design principles.
 
-I continuously improve my skills by building practical projects, solving coding challenges, and exploring new technologies. Recently, I've been working with **MongoDB**, **Node.js**, **Express.js**, and authentication systems to expand my full-stack development knowledge.
+I enjoy solving real-world problems through code and continuously improve my skills by building practical projects, learning new technologies, and exploring modern development workflows.
 
-I'm currently looking for opportunities where I can contribute, collaborate with experienced developers, and continue growing as a software engineer.
+Currently, I'm expanding my knowledge of **Node.js**, **Express.js**, **MongoDB**, and authentication systems to strengthen my full-stack development skills.
+
+### 🚀 Current Focus
+
+- ⚛ Building production-ready React & Next.js applications
+- 🎨 Creating clean, responsive UI with Tailwind CSS
+- 🔐 Learning authentication & authorization
+- 🌱 Exploring TypeScript and advanced React concepts
+- 💡 Improving problem-solving and software engineering skills
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding">
+
+</td>
+</tr>
+</table>
 
 ---
-### 🚀 What I'm Doing
 
-- 💻 Building full-stack projects with React & Next.js
-- 🌱 Learning TypeScript and advanced React concepts
-- 🔐 Exploring authentication and authorization systems
-- 📱 Creating responsive and accessible user interfaces
-- ⚡ Improving application performance and code quality
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode" />
+
+</p>
 
 ---
-### 💡 My Interests
 
-- Frontend Development
-- Modern Web Technologies
-- UI/UX Design
-- Full-Stack Development
-- Open Source
-- Problem Solving
+## 🎯 Goals
 
-> **"I believe the best way to learn is by building real projects, continuously improving, and writing code that creates value."**
+✔ Build scalable full-stack web applications
+
+✔ Contribute to open-source projects
+
+✔ Continuously learn modern web technologies
+
+✔ Write clean, maintainable, and reusable code
+
+✔ Start my career as a Frontend Software Developer
+
+---
+
+<div align="center">
+
+### ⭐ *"Code with purpose. Learn continuously. Build solutions that make an impact."*
+
+</div>
 
 # 💻 Tech Stack
 
