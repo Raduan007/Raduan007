@@ -178,6 +178,157 @@ Vercel
 </tr>
 </table>
 
+<div align="center">
+
+# 👋 Hi, I'm Raduan Hossain
+
+### 💻 Frontend Developer | React • Next.js • JavaScript | Aspiring Software Engineer
+
+<img src="https://your-banner-image-url.com/banner.png" width="100%" alt="Banner"/>
+
+<p>
+Building modern, responsive and user-friendly web applications with React and Next.js.
+</p>
+
+<p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a passionate Frontend Developer from Bangladesh who enjoys creating clean, responsive and interactive web applications.
+
+I love learning new technologies, solving programming problems and building real-world projects using modern JavaScript frameworks.
+
+My goal is to become a professional Software Engineer and contribute to impactful products.
+
+---
+
+# 🌱 Current Activities
+
+- 🔥 Exploring **Next.js**
+- 💼 Working on a **Second-Hand Marketplace (ReSell Hub)**
+- 💻 Practicing **Data Structures & Algorithms**
+- 📚 Preparing for Frontend Developer interviews
+- ⚡ Learning Backend Development with Node.js & MongoDB
+
+---
+
+# 💻 Skills
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description | Live |
+|----------|-------------|------|
+| 📚 StudyNook | Study management application with authentication | Live Demo |
+| ♻️ ReSell Hub | Second-hand marketplace platform | Live Demo |
+| 🌍 Tourism Website | Modern travel booking platform | Live Demo |
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+
+</div>
+
 ---
 
 
