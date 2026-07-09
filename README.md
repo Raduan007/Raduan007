@@ -138,7 +138,7 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raduan007&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
@@ -172,15 +172,7 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 
 ---
 
-# ⭐ Featured Projects
 
-| Project | Description | Live |
-|----------|-------------|------|
-| 📚 StudyNook | Study management application with authentication | Live Demo |
-| ♻️ ReSell Hub | Second-hand marketplace platform | Live Demo |
-| 🌍 Tourism Website | Modern travel booking platform | Live Demo |
-
----
 
 <div align="center">
 
