@@ -140,13 +140,13 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raduan007&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raduan007&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Raduan007&theme=tokyonight"/>
 
 </p>
 
@@ -156,7 +156,7 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Raduan007&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
