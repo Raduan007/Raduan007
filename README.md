@@ -96,12 +96,10 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 
 
 
----
 
 
 
 
----
 
 # 🌱 Current Activities
 
@@ -134,10 +132,10 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 </p>
 
 ---
-
+<p align="center">
 # 📫 Connect With Me
 
-<p align="center">
+
 
 <a href="https://github.com/Raduan007">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
