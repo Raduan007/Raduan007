@@ -79,13 +79,6 @@ I enjoy solving real-world problems through code and continuously improve my ski
 
 Currently, I'm expanding my knowledge of **Node.js**, **Express.js**, **MongoDB**, and authentication systems to strengthen my full-stack development skills.
 
-### 🚀 Current Focus
-
-- ⚛ Building production-ready React & Next.js applications
-- 🎨 Creating clean, responsive UI with Tailwind CSS
-- 🔐 Learning authentication & authorization
-- 🌱 Exploring TypeScript and advanced React concepts
-- 💡 Improving problem-solving and software engineering skills
 
 </td>
 
@@ -187,15 +180,5 @@ Vercel
 
 ---
 
-# 🚀 What I'm Working On
 
-```text
-✅ Building Full Stack Applications
-✅ Learning Better Auth & OAuth
-✅ Improving Next.js App Router Skills
-✅ Writing Cleaner & Reusable Code
-✅ Preparing for Frontend Developer Jobs
-```
-
----
 
