@@ -166,7 +166,7 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raduan007&theme=tokyo-night"/>
 
 </p>
 
