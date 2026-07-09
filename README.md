@@ -25,7 +25,7 @@ Building modern, responsive, and user-focused web applications with clean code a
 
 <p align="center">
 
-<a href="https://my-portfolio-tau-sepia-27.vercel.app/43">
+<a href="https://my-portfolio-tau-sepia-27.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -170,7 +170,7 @@ My goal is to become a professional Software Engineer and contribute to impactfu
 
 *"Code. Learn. Build. Repeat."*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Raduan007&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
