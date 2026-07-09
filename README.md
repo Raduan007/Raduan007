@@ -19,11 +19,7 @@ Building modern, responsive, and user-focused web applications with clean code a
 </div>
 
 
-<p align="center">
 
-Building beautiful, scalable and user-friendly web applications using modern technologies.
-
-</p>
 
 ---
 
