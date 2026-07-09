@@ -8,13 +8,16 @@
 
 </p>
 
-<h1 align="center">
-Hi 👋 I'm MD Raduan
-</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer from Bangladesh 🇧🇩
-</h3>
+# 👋 Hi, I'm Raduan Hossen
+
+### Frontend Web Developer • React • Next.js • JavaScript
+
+Building modern, responsive, and user-focused web applications with clean code and modern technologies.
+
+</div>
+
 
 <p align="center">
 
@@ -53,17 +56,8 @@ Building beautiful, scalable and user-friendly web applications using modern tec
 </p>
 
 ---
-<div align="center">
 
-# 👋 Hi, I'm Raduan Hossen
 
-### Frontend Web Developer • React • Next.js • JavaScript
-
-Building modern, responsive, and user-focused web applications with clean code and modern technologies.
-
-</div>
-
----
 
 <table>
 <tr>
